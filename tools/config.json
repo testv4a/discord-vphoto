@@ -1,0 +1,11 @@
+{
+  "output_width": 1920,
+  "output_height": 1080,
+  "resize_mode": "contain",
+  "background_color": "#000000",
+  "jpeg_quality": 85,
+  "max_source_bytes": 26214400,
+  "max_issued_slide_id": 1000,
+  "latest_cache_slots": 32,
+  "max_revision": 1000
+}
