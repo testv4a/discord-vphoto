@@ -1,7 +1,7 @@
 {
-  "revision": 3,
-  "next_id": 3,
-  "updated_at": "2026-07-29T10:42:42+00:00",
+  "revision": 4,
+  "next_id": 4,
+  "updated_at": "2026-07-29T12:39:47+00:00",
   "slides": [
     {
       "id": 2,
@@ -11,6 +11,15 @@
       "source_message_id": "1531975184779710505",
       "original_filename": "VRChat_2026-07-19_23-39-23.096_2160x3840.png",
       "created_at": "2026-07-29T10:42:42+00:00"
+    },
+    {
+      "id": 3,
+      "filename": "000003.jpg",
+      "uploader_id": "1531693229437882652",
+      "source_channel_id": "1531705822273339402",
+      "source_message_id": "1532004571608514670",
+      "original_filename": "VRChat_2026-07-17_02-27-17.135_2160x3840.png",
+      "created_at": "2026-07-29T12:39:47+00:00"
     }
   ]
 }
